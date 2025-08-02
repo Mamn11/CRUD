@@ -19,12 +19,9 @@ projeto-crud-java/
 │   ├── Main.java                // Classe principal com menu interativo
 │   ├── Usuario.java             // Modelo de dados (POJO)
 │   └── UsuarioDAO.java         // Classe DAO para acesso ao banco de dados
-│
-├── db/
 │   └── schema.sql              // Script para criação da tabela no PostgreSQL
-│
-├── README.md
-└── .gitignore
+│   └── README.md
+
 ```
 
 ## \:hammer: Funcionalidades
