@@ -85,7 +85,7 @@ java Main
 
 ## \:memo: Autor
 
-Desenvolvido por \[Seu Nome] - 2025.
+Desenvolvido por \Mateus- 2025.
 
 ## \:warning: Licença
 
